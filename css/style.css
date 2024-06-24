@@ -1,0 +1,69 @@
+/* CSS HEX */
+--fluorescent-cyan: #07F5E9ff;
+--charcoal: #4A4D5Eff;
+--turquoise: #4FD6CFff;
+--lime: #cbff4dff;
+--gunmetal: #2d3142ff;
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0px;
+    padding: 20px;
+    background-color: #2d3142ff;
+    font-family: Rubik, sans-serif;
+    color: #4fd6cfff;
+    text-align: center;
+    justify-content: center;
+}
+
+
+*
+{
+    text-rendering: optimizeLegibility;
+    color: #4fd6cfff;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    font-family: Rubik, sans-serif;
+    margin: auto;
+
+}
+html
+{
+    background-color: #2d3142ff;
+}
+a[href]
+{
+    color: #07F5E9ff;
+}
+h2
+{
+    color: #07F5E9ff;
+    margin-top: 20px;
+
+}
+#div-info-magika
+{
+    text-align: center;
+    list-style: inside;
+    margin: auto;
+    list-style-type: none;
+    padding: 10px;
+
+}
+.text-settings
+{
+    color: #4fd6cfff;
+    text-align: center;
+    margin: 10px;
+}
+img {
+    display: block;
+    margin: 20px auto;
+    padding: 10px;
+    align-self: center;
+}
